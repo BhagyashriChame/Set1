@@ -11,8 +11,9 @@ public class AddIndex2 {
 			 l.add(104);
 			 System.out.println(l);
 			 l.add(2,"E");
+			 l.add(104);
 			 System.out.println(l);
-			 
+			 //hello
 	}
 
 
